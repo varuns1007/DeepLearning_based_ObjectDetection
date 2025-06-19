@@ -50,7 +50,7 @@
 ./task2.sh 2 2 <image_dir> <trained_model_input> <output_predictions>
 ```
 
-## ✅ Task 3: Custom Extension or Advanced Strategy
+## ✅ Task 3: YOLOv8
 ```bash
 # Train
 ./task3.sh 1 <dataset_root> <trained_model_output>
