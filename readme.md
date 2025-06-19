@@ -34,7 +34,7 @@
 ./task1.sh 2 3 2 <image_dir> <trained_model_input> <output_predictions>
 ```
 
-## ✅ Task 2: Zero-Shot and Prompt Tuning
+## ✅ Task 2: Zero-Shot and Prompt Tuning using GroundingDino
 
 ### ❄️ Zero-Shot Inference
 ```bash
