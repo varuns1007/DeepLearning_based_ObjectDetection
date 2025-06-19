@@ -1,0 +1,5 @@
+train: /Users/varunshinde/IITD/JRL780/Assignment3/submission/files/datasets/yolo_dataset/images/train
+val: /Users/varunshinde/IITD/JRL780/Assignment3/submission/files/datasets/yolo_dataset/images/val
+
+nc: 8
+names: ["person","car","train","rider","truck","motorcycle","bicycle", "bus"]

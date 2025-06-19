@@ -1,0 +1,8 @@
+matplotlib==3.10.1
+numpy==2.2.5
+Pillow==11.2.1
+pycocotools==2.0.8
+torch==2.6.0
+torchvision==0.21.0
+tqdm==4.67.1
+transformers==4.51.3

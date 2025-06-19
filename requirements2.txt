@@ -1,0 +1,6 @@
+groundingdino==0.1.0
+numpy==2.2.5
+Pillow==11.2.1
+pycocotools==2.0.8
+supervision==0.25.1
+torch==2.6.0
